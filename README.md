@@ -39,6 +39,7 @@ Sister Application to Covid19 Vulnerable Data Viewer. Used to generate a configu
 ### Confirmation messages for every modification action on config/measure
 
 ### Test cases to ensure additional measures are valid
-*TODO:* Add easy method to implement new tests
+  **TODO:** 
+  * Add easy method to implement new tests
 
 ### Automatically set certain measures from API fetches
