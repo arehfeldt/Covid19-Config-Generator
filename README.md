@@ -1,7 +1,7 @@
 ### Author: Aaron Rehfeldt
 
 # Covid19-Config-Generator
-Sister Application to Covid19 Vulnerable Data Viewer. Used to generate a configurable file for all measures so our visualization tool may safely draw data from the CDC's NEPHTN API
+Sister Application to Covid19 Vulnerable Data Viewer. Used to generate a configurable file for all measures so our visualization tool may safely fetch and use data from the CDC's NEPHTN API
 
 # Functions
 ### View\modify working config (In Progress)
