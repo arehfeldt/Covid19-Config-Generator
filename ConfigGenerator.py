@@ -8,7 +8,7 @@ indicator_url = "indicators/"
 measure_url = "measures/"
 config = []
 cache = {}
-termainal_pad_size = 25
+terminal_padding = 25
 defaults = {
     "bar": True,
     "heatMap": True,
@@ -21,7 +21,7 @@ modifiable = [k for k in defaults.keys()] + ['name', 'stateFromCounty']
 
 
 def pad_terminal():
-    for i in range(termainal_pad_size):
+    for line in range(terminal_padding):
         print()
 
 
